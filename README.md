@@ -55,7 +55,7 @@ attribute is used to group together similar elements.
 Both `<id>` and `<class>` attributes are often used for styling purposes since they allows us to find a specific element or style similar elements with a single style declaration.
 
 ```html
-	<p id='main_paragraph'>This element can be uniquely identified  using the 'main_paragraph' id HTML attribute</p>
+	<p id='main_paragraph'>This element can be uniquely identified  using the 'main_paragraph' id HTML attribute... OR CAN IT?</p>
 	
 	<p class='other_paragraphs'>This element belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
 	<p class='other_paragraphs'>This element also belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
